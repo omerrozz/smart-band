@@ -1,0 +1,29 @@
+# Kişisel veri ve gizli anahtarlar: bunlar asla depoya girmez
+config.json
+config.json.*
+!config.example.json
+*.db
+*.db-wal
+*.db-shm
+*.db.bak*
+band/raw/
+*.gpx
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Android
+.gradle/
+.kotlin/
+build/
+local.properties
+*.apk
+*.jks
+*.keystore
+
+# Araç klasörleri
+.claude/
+.idea/

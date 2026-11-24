@@ -1,0 +1,29 @@
+{
+  "address": "AA:BB:CC:DD:EE:FF",
+  "auth_key": "00000000000000000000000000000000",
+  "channel": 5,
+  "goals": {
+    "steps": 8000,
+    "calories": 600,
+    "water": 2500,
+    "standing": 12,
+    "moving": 30
+  },
+  "profile": {
+    "age": 22,
+    "height": 178,
+    "weight": 72,
+    "sex": "m"
+  },
+  "weather": {
+    "enabled": false,
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "every": 60
+  },
+  "scale": {
+    "address": "AA:BB:CC:DD:EE:FF",
+    "bind_key": "00000000000000000000000000000000"
+  }
+}
